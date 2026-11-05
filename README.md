@@ -2,6 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and introduction as a Computer Science student interested in web development and technology.
 
+
 ## 📌 About the Project
 
 This portfolio website is designed to introduce myself, highlight my technical skills, display my projects, and provide a way for visitors to contact me.
